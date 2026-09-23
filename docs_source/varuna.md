@@ -1,18 +1,11 @@
-# \# Varuna: A Python-Based System for Water Quality Index Calculation
+# Varuna: A Python-Based System for Water Quality Index Calculation
 
-# 
+**Journal:** International Journal of Innovative Science and Research Technology
+**Publication Date:** May 2025
+**Authors:** Joyanta Debnath (IIEST Shibpur), Ananta Debnath (BUET)
 
-# \* \*\*Journal:\*\* International Journal of Innovative Science and Research Technology (May 2025)
+## Overview
 
-# \* \*\*Authors:\*\* Joyanta Debnath (IIEST Shibpur), Ananta Debnath (BUET)
+Varuna is a Python-based software system developed to automate water resource quality assessments. The system implements multiple standardized indices, including the traditional Water Quality Index (WQI), the Canadian Water Quality Index (CWQI), and the NSF Water Quality Index. Built using the Pandas and Matplotlib libraries, Varuna processes large, multivariate water quality datasets and generates concise, tabular summaries suitable for engineering and environmental reporting.
 
-# \* \*\*Code Framework:\*\* \[View Repository on GitHub](https://github.com)
-
-# 
-
-# \### Interactive Document View
-
-# <iframe src="IJISRT25MAY2351%20%281%29.pdf" width="100%" height="900px" style="border: 1px solid #ccc;"></iframe>
-
-# 
-
+Full Paper: [Download PDF](IJISRT25MAY2351%20%281%29.pdf)

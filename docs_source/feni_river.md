@@ -1,16 +1,11 @@
-# \# Assessment Of Water Quality In The Dry Season: A Case Study In The Little Feni River, Bangladesh
+# Assessment of Water Quality in the Dry Season: A Case Study in the Little Feni River, Bangladesh
 
-# 
+**Journal:** IOSR Journal of Environmental Science, Toxicology and Food Technology
+**Publication Date:** June 2025
+**Author:** Joyanta Debnath, Department of Civil Engineering, IIEST Shibpur
 
-# \* \*\*Journal:\*\* IOSR Journal of Environmental Science, Toxicology and Food Technology (June 2025)
+## Abstract
 
-# \* \*\*Author:\*\* Joyanta Debnath (Department Of Civil Engineering, IIEST Shibpur)
+This study evaluates water quality during the dry season across seven sampling locations along the Musapur Reservoir. Results indicate elevated salinity levels, ranging from 1.5 to 8.03 parts per thousand, along with measurable concentrations of heavy metals including lead and cadmium, reflecting seasonal brackish water intrusion. These findings suggest that while the water may not be immediately suitable for domestic use without targeted filtration, it remains within acceptable thresholds for irrigation and supports the local fisheries sector.
 
-# 
-
-# \### Interactive Document View
-
-# <iframe src="E1906016670%20%281%29.pdf" width="100%" height="900px" style="border: 1px solid #ccc;"></iframe>
-
-# 
-
+Full Paper: [Download PDF](E1906016670%20%281%29.pdf)
