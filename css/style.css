@@ -1,0 +1,33 @@
+:root {
+  --primary: #0f2438;
+  --accent: #00d9ff;
+}
+
+body {
+  background-color: #f0f4f8;
+}
+
+h2 {
+  color: #1a3a52;
+  border-bottom: 3px solid #00d9ff;
+  padding-bottom: 0.5rem;
+}
+
+a {
+  color: #00d9ff;
+  font-weight: 600;
+}
+
+table {
+  background: white;
+  border-radius: 8px;
+}
+
+table th {
+  background: linear-gradient(135deg, #0f2438, #0288d1);
+  color: white;
+}
+
+table tr:hover {
+  background-color: rgba(0, 217, 255, 0.08);
+}
