@@ -1,0 +1,23 @@
+site_name: Joyanta Debnath | Portfolio
+site_url: https://github.io
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+
+nav:
+  - Home: index.md
+  - Publications & Research:
+    - Little Feni River Water Quality: feni_river.md
+    - Varuna WQI Calculator: varuna.md
+  - Projects:
+    - Aerobic Composting Study: composting.md
