@@ -1,44 +1,62 @@
 # Joyanta Debnath, AMIEB
 
-<img src="assets/Profile.jpeg" width="150" style="border-radius: 50%; float: right; margin-left: 20px;"/>
+<img src="assets/Profile.jpeg" width="150" style="border-radius: 50%; margin-bottom: 20px;"/>
 
-Welcome to my academic portfolio. I am an M.Tech student in Remote Sensing at the **Indian Institute of Technology Bombay**, specializing in civil engineering applications, geospatial modeling, and water resource management.
-
----
-
-## Work & Professional Experience
-
-### **Junior Engineer** 
-**Institute of Water Modelling (IWM)** | *Past Role*
-* Managed hydraulic and hydrological asset datasets for regional water modeling assessments.
-* Formulated layout design configurations for municipal drainage networks using tools like SewerGems and Flowmaster.
-* Handled geospatial processing for structural floodplain mapping.
-
-#### **Official Experience Certificate**
-*Below is the verified validation document issued upon the successful completion of my tenure at the Institute of Water Modelling (IWM).*
-
-<object data="IWM_Experience_Certificate.pdf" type="application/pdf" width="100%" height="650px">
-    <p>Your browser does not support inline PDFs. Please download the file to view it.</p>
-</object>
-
+**M.Tech Student in Remote Sensing** | Indian Institute of Technology Bombay  
+Specializing in Civil Engineering, Geospatial Modeling & Water Resource Management
 
 ---
 
-## 📄 Academic Curriculum Vitae (CV)
-*Below is the complete interactive view of my professional background. You can scroll through the document directly.*
+## 👨‍💼 Professional Summary
 
-<iframe src="Joyanta_Debnath_CV_Updated.pdf" width="100%" height="800px" style="border: 1px solid #ccc;"></iframe>
-
----
-
-## Academic Projects and Internships
-*Comprehensive record of certified engineering frameworks.*
-
-<iframe src="ALL%20ECA.pdf" width="100%" height="800px" style="border: 1px solid #ccc;"></iframe>
+Junior Engineer at the **Institute of Water Modelling (IWM)** with expertise in hydraulic modeling, GIS analysis, and drainage network design. Currently pursuing advanced studies in remote sensing with focus on water quality assessment and environmental monitoring.
 
 ---
 
-## Professional Membership
-*Active registration credentials with the Institute of Engineers, Bangladesh.*
+## 🎓 Education
 
-<iframe src="Engineering Membership.pdf" width="100%" height="500px" style="border: 1px solid #ccc;"></iframe>
+**M.Tech in Remote Sensing**  
+Indian Institute of Technology Bombay | *Ongoing*
+
+**B.Tech in Civil Engineering**  
+IIEST Shibpur
+
+---
+
+## 💼 Work Experience
+
+**Junior Engineer** — Institute of Water Modelling (IWM)
+* Hydraulic & hydrological modeling for water resource projects
+* Municipal drainage network design (SewerGems, Flowmaster, SW DTM)
+* Geospatial analysis & floodplain mapping
+
+---
+
+## 🛠 Technical Skills
+
+**Software & Tools:** Python (Pandas, NumPy, Matplotlib) | Power BI | GIS | AutoCAD | STAAD Pro | SketchUp | Lumion
+
+**Specializations:** Water Quality Analysis | Hydraulic Modeling | Geospatial Processing | Environmental Assessment
+
+---
+
+## 📚 Research & Publications
+
+* **Water Quality Assessment** - IOSR Journal (June 2025) — [View](feni_river.md)
+* **Varuna WQI System** - International Journal (May 2025) — [View](varuna.md)
+* **Aerobic Composting Study** - B.Tech Thesis — [View](composting.md)
+
+---
+
+## 📄 Documents
+
+| Document | Link |
+|----------|------|
+| **Resume/CV** | [Download](Joyanta_Debnath_CV_Updated.pdf) |
+| **Experience Certificate** | [View](IWM_Experience_Certificate.pdf) |
+| **Extracurricular Activities** | [View](ALL%20ECA.pdf) |
+| **Professional Membership** | [View](Engineering Membership.pdf) |
+
+---
+
+**Get in Touch** | Email: nathjoyanta2001@gmail.com
