@@ -1,12 +1,12 @@
 site_name: Joyanta Debnath | Portfolio
-site_description: M.Tech Remote Sensing | Civil Engineering | Water Resources
+site_description: M.Tech Remote Sensing | Civil Engineering | Water Resources  
 site_url: https://joyantadeb.github.io
 
 theme:
   name: material
   palette:
     - scheme: light
-      primary: custom
+      primary: blue
       accent: cyan
   
   font:
@@ -16,17 +16,13 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.top
     - search.suggest
-    - content.code.copy
-    - header.autohide
 
 extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
   - pymdownx.emoji
-  - pymdownx.superfences
   - tables
 
 nav:
