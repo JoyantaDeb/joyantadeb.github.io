@@ -451,3 +451,55 @@ img[src*="Profile"]:hover {
     border: 1px solid #ddd;
   }
 }
+
+/* ===== Project / Training / Award galleries ===== */
+.project-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem 0;
+  align-items: stretch;
+}
+
+.project-gallery img {
+  flex: 1 1 calc(50% - 0.5rem);
+  max-width: calc(50% - 0.5rem);
+  height: 280px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 3px solid var(--accent-cyan);
+  box-shadow: 0 6px 20px rgba(15, 36, 56, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.project-gallery img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 30px rgba(0, 217, 255, 0.35);
+}
+
+/* 3-image galleries → first two at 50%, third full-width */
+.project-gallery img:nth-child(3):last-child {
+  flex: 1 1 100%;
+  max-width: 100%;
+}
+
+/* Single-image galleries (certificates) — centered, readable */
+.project-gallery img:only-child {
+  flex: 0 1 720px;
+  max-width: 720px;
+  height: auto;
+  max-height: 520px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+  background: white;
+}
+
+@media (max-width: 768px) {
+  .project-gallery img {
+    flex: 1 1 100%;
+    max-width: 100%;
+    height: 220px;
+  }
+}
