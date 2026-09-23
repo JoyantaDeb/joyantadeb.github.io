@@ -1,23 +1,13 @@
-site_name: Joyanta Debnath | Academic Portfolio
+site_name: Joyanta Debnath | Portfolio
 site_description: M.Tech Remote Sensing | Civil Engineering | Water Resources
 site_url: https://joyantadeb.github.io
 
 theme:
   name: material
-  custom_dir: overrides
   palette:
     - scheme: light
       primary: custom
       accent: cyan
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: dark
-      primary: custom
-      accent: light-blue
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
   
   font:
     text: Segoe UI
@@ -38,14 +28,11 @@ markdown_extensions:
   - pymdownx.emoji
   - pymdownx.superfences
   - tables
-  - toc
 
 nav:
   - Home: index.md
   - Research:
-    - Water Quality Assessment: feni_river.md
-    - Varuna WQI System: varuna.md
-    - Aerobic Composting: composting.md
-  - About: 
-    - CV: cv.md
+    - Water Quality: feni_river.md
+    - Varuna System: varuna.md
+    - Composting Study: composting.md
   - Contact: contact.md
