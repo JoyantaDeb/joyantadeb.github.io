@@ -18,5 +18,5 @@
 
 # 
 
-# Full Thesis: \[Download PDF](Feasibility%20analysis%20of%20short%20time%20aerobic%20composting%20using%20vegetables%20peels.pdf)
+# Full Thesis: \[Download PDF](Compost.pdf)
 
