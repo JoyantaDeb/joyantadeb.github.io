@@ -19,7 +19,7 @@ theme:
     - search.suggest
 
 extra_css:
-  - stylesheets/extra.css
+  - css/style.css
 
 markdown_extensions:
   - pymdownx.emoji
